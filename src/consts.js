@@ -1,2 +1,2 @@
-export const	HOST = 'https://amazing-pets.online/';
-export const	DOMAIN = 'https://petspleasinga.vercel.app/';
+export const	HOST = 'https://majestic-animals.su/';
+export const	DOMAIN = 'https://majestic-animals.vercel.app/';
