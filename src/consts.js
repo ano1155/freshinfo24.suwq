@@ -1,2 +1,2 @@
-export const	HOST = 'https://freshinfo24.su/';
-export const	DOMAIN = 'https://freshinfo-24-su.pages.dev/';
+export const	HOST = 'https://animalsstory.com/';
+export const	DOMAIN = 'https://x2theamazingnews1s.pages.dev/';
